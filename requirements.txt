@@ -1,0 +1,5 @@
+python-dotenv
+openai
+langchain
+langchain-openai
+streamlit~=1.40.2
